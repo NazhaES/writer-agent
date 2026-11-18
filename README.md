@@ -4,6 +4,8 @@ A FastAPI web app that runs a LangGraph agent to write blog articles. The agent 
 
 ## Demo
 
+**[Watch the demo video](docs/agentwriter-demo.mp4)**
+
 Workspace where you enter a topic and run the agent:
 
 ![Workspace](docs/demo-workspace.png)
